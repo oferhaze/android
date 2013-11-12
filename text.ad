@@ -1,17 +1,9 @@
 TEXT.adoc from oferhaze/adnroid , in Guthub BLAH BLAH BLAH BLAH BLAH BLAH
-==========================================================================
 
+Author’s Name v1.0, 2003-12
 
-Book Title Goes Here
-====================
-Author's Name
-v1.0, 2003-12
-:doctype: book
-
-
-[dedication]
 Example Dedication
-------------------
+
 Optional dedication.
 
 This document is an AsciiDoc book skeleton containing briefly
@@ -89,19 +81,15 @@ footnote:[A second example footnote.]
 
 
 The Second Chapter
-------------------
-An example link to anchor at start of the <<X1,first sub-section>>.
-indexterm:[Second example index entry]
+An example link to anchor at start of the first sub-section.
 
-An example link to a bibliography entry <<taoup>>.
-
+An example link to a bibliography entry [taoup].
 
 The Third Chapter
------------------
+
 Book chapters are at level 1 and can contain sub-sections.
 
 
-:numbered!:
 
 [appendix]
 Example Appendix
