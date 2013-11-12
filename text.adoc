@@ -1,5 +1,6 @@
-Book Title Goes Here
-====================
+TEXT.adoc from oferhaze/adnroid , in Guthub
+BLAH BLAH BLAH BLAH BLAH BLAH 
+=============================================
 Author's Name
 v1.0, 2003-12
 :doctype: book
