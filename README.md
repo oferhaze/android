@@ -1,1 +1,1 @@
-[ ![Download](https://api.bintray.com/packages/jfrog/artifactory/artifactory/images/download.png) ](https://bintray.com/jfrog/artifactory/artifactory/_latestVersion)
+[ ![Download](https://api.bintray.com/packages/oferh/smoke/smoke/images/download.png) ](https://bintray.com/oferh/smoke/smoke/_latestVersion)
