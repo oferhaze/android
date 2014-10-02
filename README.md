@@ -1,1 +1,1 @@
-[ ![Download](https://api.bintray.com/packages/oferh/maven/aaa/images/download.svg) ](https://bintray.com/oferh/maven/aaa/_latestVersion)
+[ ![Download](https://api.bintray.net/packages/oferh/smoke/smoke/images/download.svg) ](https://bintray.com/oferh/smoke/smoke/_latestVersion)
