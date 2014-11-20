@@ -1,26 +1,29 @@
-Tables can look like this:
+An h1 header
+============
 
-size  material      color
-----  ------------  ------------
-9     leather       brown
-10    hemp canvas   natural
-11    glass         transparent
+Paragraphs are separated by a blank line.
 
-Table: Shoes, their sizes, and what they're made of
+2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
+look like:
 
-(The above is the caption for the table.) Pandoc also supports
-multi-line tables:
+  * this one
+  * that one
+  * the other one
 
---------  -----------------------
-keyword   text
---------  -----------------------
-red       Sunsets, apples, and
-          other red or reddish
-          things.
+Note that --- not considering the asterisk --- the actual text
+content starts at 4-columns in.
 
-green     Leaves, grass, frogs
-          and other things it's
-          not easy being.
---------  -----------------------
+> Block quotes are
+> written like so.
+>
+> They can span multiple paragraphs,
+> if you like.
 
-A horizontal rule follows.
+Use 3 dashes for an em-dash. Use 2 dashes for ranges (ex., "it's all
+in chapters 12--14"). Three dots ... will be converted to an ellipsis.
+Unicode is supported. ☺
+
+
+
+An h2 header
+------------
